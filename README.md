@@ -15,17 +15,6 @@ The project contains **20 SQL questions**, organized into three different diffic
 Throughout the project, the dataset is explored to answer meaningful questions related to Olympic participation and performance. The analysis includes athlete participation across different Olympic Games, team and country performance, medal distribution, unique athlete counts, host city analysis, and comparisons between Summer and Winter Olympic participation.
 
 The project gradually progresses from simple data retrieval queries to more advanced analytical problems. This approach helps demonstrate how SQL can be used not only to retrieve data but also to transform raw data into meaningful insights.
-# 👨‍💻 About the Author
-
-**MD Nur Hossain Joy**
-
-🎓 **MBA, Institute of Business Administration (IBA)**  
-🏛️ **University of Rajshahi**
-
-💼 **Professional Background**
-
-- Former Finance Executive — MetLife Bangladesh
-- Former Accounts & Finance Executive — IFAD Motors
 
 ### Key Areas of Analysis
 
@@ -74,12 +63,17 @@ CTEs & Window Functions
 Olympic Performance Insights
 ```
 
-👨‍💻 About the Author
-MD Nur Hossain Joy
-Mobile Number: +88 0184919-4938
-Email: mdnurhossainjoy4456@gmail.com
-🎓 MBA, Institute of Business Administration (IBA)
-🏛️ University of Rajshahi
+# 👨‍💻 About the Author
+
+**MD Nur Hossain Joy**
+
+🎓 **MBA, Institute of Business Administration (IBA)**  
+🏛️ **University of Rajshahi**
+
+💼 **Professional Background**
+
+- Former Finance Executive — MetLife Bangladesh
+- Former Accounts & Finance Executive — IFAD Motors
 
 💼 Professional Background
 Former Finance Executive — MetLife Bangladesh
