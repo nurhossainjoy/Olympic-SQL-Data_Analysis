@@ -64,8 +64,7 @@ Olympic Performance Insights
 ```
 
 # 👨‍💻 About the Author
-
-##MD Nur Hossain Joy
+MD Nur Hossain Joy
 
 Mobile: +88 01849194938
 Email: mdnurhossainjoy44562@gmail.com
