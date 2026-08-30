@@ -1,4 +1,4 @@
-# Olympic SQL Data Analysis
+#Olympic SQL Data Analysis
 ## 📌 Project Overview
 ![Olympic SQL Data Analysis Project](Images/olympics_cropped.webp)
 The **Olympic SQL Analysis Project** is a comprehensive SQL data analysis project built using **PostgreSQL** and an Olympic athletes dataset containing historical records of athlete participation, events, teams, sports, host cities, and medals.
@@ -71,4 +71,18 @@ Conditional Analysis
 CTEs & Window Functions
         ↓
 Olympic Performance Insights
+```
 
+👨‍💻 About the Author
+MD Nur Hossain Joy
+Mobile Number: +88 0184919-4938
+Email: mdnurhossainjoy4456@gmail.com
+🎓 MBA, Institute of Business Administration (IBA)
+🏛️ University of Rajshahi
+
+💼 Professional Background
+Former Finance Executive — MetLife Bangladesh
+Former Accounts & Finance Executive — IFAD Motors
+📊 Current Focus
+
+This project represents part of my journey from a Finance and Accounts background toward building practical expertise in Data Analytics and SQL-based data analysis.
