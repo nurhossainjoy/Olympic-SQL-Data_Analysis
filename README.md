@@ -1,4 +1,4 @@
-# Olympic SQL Data Analysis#
+# Olympic SQL Data Analysis
 ![Olympic SQL Data Analysis Project](Images/olympics_cropped.webp)
 ## 📌 Project Overview
 
