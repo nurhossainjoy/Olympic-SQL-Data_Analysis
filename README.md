@@ -1,5 +1,6 @@
+# Olympic SQL Data Analysis
 ## 📌 Project Overview
-
+![Olympic SQL Data Analysis Project](Images/olympics_cropped.webp)
 The **Olympic SQL Analysis Project** is a comprehensive SQL data analysis project built using **PostgreSQL** and an Olympic athletes dataset containing historical records of athlete participation, events, teams, sports, host cities, and medals.
 
 The primary purpose of this project is to demonstrate and strengthen practical SQL skills by analyzing real-world-style data through a structured set of analytical questions.
