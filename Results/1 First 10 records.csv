@@ -1,0 +1,11 @@
+"id","name","sex","age","height","weight","team","noc","games","year","season","city","sport","event","medal"
+1,"A Dijiang","M",24.0,180.0,80.0,"China","CHN","1992 Summer",1992,"Summer","Barcelona","Basketball","Basketball Men's Basketball",NULL
+2,"A Lamusi","M",23.0,170.0,60.0,"China","CHN","2012 Summer",2012,"Summer","London","Judo","Judo Men's Extra-Lightweight",NULL
+3,"Gunnar Nielsen Aaby","M",24.0,NULL,NULL,"Denmark","DEN","1920 Summer",1920,"Summer","Antwerpen","Football","Football Men's Football",NULL
+4,"Edgar Lindenau Aabye","M",34.0,NULL,NULL,"Denmark/Sweden","DEN","1900 Summer",1900,"Summer","Paris","Tug-Of-War","Tug-Of-War Men's Tug-Of-War","Gold"
+5,"Christine Jacoba Aaftink","F",21.0,185.0,82.0,"Netherlands","NED","1988 Winter",1988,"Winter","Calgary","Speed Skating","Speed Skating Women's 500 metres",NULL
+5,"Christine Jacoba Aaftink","F",21.0,185.0,82.0,"Netherlands","NED","1988 Winter",1988,"Winter","Calgary","Speed Skating","Speed Skating Women's 1,000 metres",NULL
+5,"Christine Jacoba Aaftink","F",25.0,185.0,82.0,"Netherlands","NED","1992 Winter",1992,"Winter","Albertville","Speed Skating","Speed Skating Women's 500 metres",NULL
+5,"Christine Jacoba Aaftink","F",25.0,185.0,82.0,"Netherlands","NED","1992 Winter",1992,"Winter","Albertville","Speed Skating","Speed Skating Women's 1,000 metres",NULL
+5,"Christine Jacoba Aaftink","F",27.0,185.0,82.0,"Netherlands","NED","1994 Winter",1994,"Winter","Lillehammer","Speed Skating","Speed Skating Women's 500 metres",NULL
+5,"Christine Jacoba Aaftink","F",27.0,185.0,82.0,"Netherlands","NED","1994 Winter",1994,"Winter","Lillehammer","Speed Skating","Speed Skating Women's 1,000 metres",NULL

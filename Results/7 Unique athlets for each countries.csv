@@ -1,0 +1,828 @@
+"team","number_of_athletes"
+"United States",2565
+"France",2242
+"Italy",1838
+"Great Britain",1715
+"Canada",1266
+"Australia",1137
+"Sweden",953
+"Germany",916
+"Spain",910
+"Brazil",805
+"Netherlands",719
+"Switzerland",700
+"Belgium",681
+"Hungary",625
+"Argentina",615
+"Soviet Union",581
+"Romania",552
+"Poland",532
+"Russia",482
+"Mexico",473
+"Norway",465
+"Egypt",444
+"Czechoslovakia",393
+"Cuba",379
+"Denmark",365
+"Austria",357
+"New Zealand",357
+"China",329
+"West Germany",324
+"Bulgaria",319
+"Turkey",304
+"Portugal",301
+"Yugoslavia",273
+"Greece",268
+"Japan",260
+"South Korea",249
+"East Germany",248
+"South Africa",238
+"Ireland",227
+"Morocco",222
+"Nigeria",209
+"Ukraine",201
+"Puerto Rico",188
+"India",185
+"Colombia",185
+"Finland",182
+"Algeria",177
+"Tunisia",172
+"Chinese Taipei",169
+"Venezuela",157
+"Chile",152
+"Iran",143
+"Kuwait",139
+"Belarus",137
+"Kazakhstan",137
+"Peru",137
+"Philippines",133
+"Pakistan",133
+"Czech Republic",129
+"Uruguay",127
+"Saudi Arabia",122
+"Unified Team",114
+"Kenya",112
+"Mongolia",110
+"Senegal",104
+"Latvia",100
+"Ghana",100
+"Jamaica",96
+"Israel",91
+"Croatia",91
+"Slovakia",89
+"Thailand",87
+"Ethiopia",85
+"Cameroon",81
+"Hong Kong",80
+"Malaysia",77
+"Slovenia",74
+"Qatar",72
+"Angola",70
+"Luxembourg",70
+"Guatemala",68
+"Uzbekistan",65
+"Iraq",65
+"Dominican Republic",62
+"Lebanon",60
+"Syria",58
+"Iceland",57
+"Trinidad and Tobago",57
+"United States-2",56
+"Paraguay",54
+"United States-1",53
+"United Arab Emirates",51
+"Lithuania",51
+"France-1",51
+"Azerbaijan",51
+"Ecuador",49
+"Costa Rica",49
+"Bahrain",48
+"Moldova",47
+"Great Britain-2",46
+"Great Britain-1",44
+"North Korea",44
+"Zimbabwe",44
+"Italy-1",43
+"United Arab Republic",43
+"Honduras",42
+"Oman",42
+"Cote d'Ivoire",41
+"Libya",41
+"Serbia",41
+"El Salvador",41
+"Bahamas",40
+"Serbia and Montenegro",39
+"Uganda",39
+"Indonesia",39
+"Italy-2",39
+"Guinea",38
+"Bolivia",38
+"Canada-2",37
+"Zambia",37
+"Barbados",36
+"Jordan",36
+"Panama",36
+"Sudan",36
+"Estonia",36
+"Monaco",35
+"Armenia",35
+"San Marino",35
+"Kyrgyzstan",35
+"France-2",35
+"Canada-1",34
+"Bermuda",33
+"Georgia",32
+"Malta",32
+"Switzerland-2",31
+"Mali",31
+"United States Virgin Islands",31
+"Liechtenstein",30
+"Afghanistan",30
+"Germany-2",30
+"Mauritius",30
+"Switzerland-1",29
+"Nicaragua",29
+"Singapore",29
+"Fiji",29
+"Haiti",29
+"Benin",28
+"Cyprus",28
+"Seychelles",26
+"Guyana",25
+"Netherlands Antilles",24
+"Guam",24
+"Sri Lanka",22
+"Individual Olympic Athletes",21
+"Austria-2",21
+"Germany-1",20
+"Yemen",19
+"Sierra Leone",19
+"Congo (Brazzaville)",18
+"Bosnia and Herzegovina",18
+"Tanzania",18
+"Togo",18
+"Antigua and Barbuda",17
+"Mozambique",17
+"Austria-1",16
+"Papua New Guinea",15
+"Nepal",15
+"Russia-2",15
+"Malaya",14
+"Tajikistan",14
+"Sweden-2",14
+"Cayman Islands",14
+"Andorra",14
+"China-1",13
+"Gabon",13
+"Malawi",13
+"Niger",13
+"Bangladesh",13
+"Palestine",12
+"Samoa",12
+"Botswana",12
+"Romania-2",12
+"Sweden-1",12
+"Equatorial Guinea",12
+"Vietnam",12
+"Central African Republic",12
+"Australasia",12
+"Russia-1",12
+"Comoros",11
+"Montenegro",11
+"Djibouti",11
+"Romania-1",10
+"Suriname",10
+"East Germany-2",10
+"Mauritania",10
+"Congo (Kinshasa)",10
+"West Germany-1",10
+"Saar",10
+"Grenada",10
+"Canada-3",10
+"Belgium-1",9
+"Australia-2",9
+"Somalia",9
+"Argentina-2",9
+"United States-3",9
+"Turkmenistan",9
+"Madagascar",9
+"Spain-1",9
+"Bohemia",9
+"Swaziland",9
+"Belize",9
+"Devon and Somerset Wanderers",9
+"Saint Vincent and the Grenadines",9
+"Laos",8
+"Soviet Union-2",8
+"Angelita",8
+"Chad",8
+"Soviet Union-1",8
+"Czech Republic-2",8
+"Albania",8
+"Union des Socits Franais de Sports Athletiques",8
+"Liberia",8
+"Maldives",8
+"British Virgin Islands",8
+"West Germany-2",8
+"Gambia",8
+"Myanmar",8
+"Macedonia",8
+"Namibia",8
+"Vesper Boat Club",7
+"Latvia-2",7
+"Ukraine-2",7
+"Saint Lucia",7
+"Soviet Union-3",7
+"Great Britain-3",7
+"Brazil-1",7
+"North Yemen",7
+"Winnipeg Shamrocks-1",7
+"Guinea Bissau",7
+"East Germany-1",7
+"Czech Republic-1",6
+"Germany-3",6
+"Gteborgs Roddklubb-1",6
+"Australia-1",6
+"Norway-1",6
+"Racing Club de France",6
+"Bhutan",6
+"Brazil-2",6
+"Hera-1",6
+"Belgium-2",6
+"Spain-2",6
+"St. Rose-2",6
+"Cape Verde",6
+"Argentina-1",6
+"American Samoa",6
+"Socit Nautique de Bayonne",6
+"Eritrea",5
+"Refugee Olympic Athletes",5
+"USFSA",5
+"Societ Nautique de la Marne",5
+"Ireland-2",5
+"Solomon Islands",5
+"Latvia-1",5
+"Moseley Wanderers",5
+"Dominica",5
+"Fruits",5
+"France-3",5
+"Aruba",5
+"Rwanda",5
+"Sao Tome and Principe",5
+"Roddklubben af 1912-2",4
+"Cercle de l'Aviron Roubaix-4",4
+"Chinese Taipei-1",4
+"Christian Brothers' College-1",4
+"Ciocca II",4
+"Cambodia",4
+"Bulgaria-2",4
+"Vanuatu",4
+"Western Golf Association-1",4
+"Socit Nautique de la Basse Seine-1",4
+"Brussels Swimming and Water Polo Club",4
+"Brunei",4
+"Japan-1",4
+"Erna Signe",4
+"Federated States of Micronesia",4
+"Nauru",4
+"Gallant",4
+"Saint Kitts and Nevis",4
+"Russia-3",4
+"Royal Club Nautique de Gand",4
+"Greece-1",4
+"Roma",4
+"Pupilles de Neptune de Lille #2-1",4
+"Poland-2",4
+"Leander Club-1",4
+"Indonesia-1",4
+"Palau",4
+"Berliner Ruderverein von 1876-2",4
+"Magda IX",3
+"Barion/Bari-2",3
+"Boston Archers",3
+"Fornebo",3
+"Japan-2",3
+"Ludwigshafener Ruderverein",3
+"Scotland-3",3
+"A North American Team",3
+"Unified Team-1",3
+"Mohawk Indians-2",3
+"Ylliam II",3
+"Nigeria-2",3
+"Greece-3",3
+"Espuma del Mar",3
+"Nina",3
+"Grifo IV",3
+"K Division Metropolitan Police Team-3",3
+"Snap",3
+"Elisabeth X",3
+"Snude",3
+"Edelweiss II-1",3
+"Linglom",3
+"Societ Nautique de la Marne-3",3
+"Roddklubben af 1912-1",3
+"Ausonia",3
+"rn-2",3
+"DeRuyter",3
+"Atlanta",3
+"Qu'Importe",3
+"Life boat naval ship ""Spetsai""-1",3
+"Athens-2",3
+"West Indies Federation",3
+"Taifun",3
+"Tritons Lillois-2",3
+"Libellule de Paris",3
+"South Vietnam",3
+"Toronto Argonauts",3
+"Czechoslovakia-2",3
+"Lerina",3
+"Czechoslovakia-1",3
+"Lemzos Thorichton ""Spetsai""-4",3
+"Lemzos Thorichton ""Psara""-3",3
+"Upton Park FC",3
+"Chinese Taipei-2",3
+"Poland-1",3
+"Nina Claire-2",3
+"Nina Claire-30",3
+"Leander Club-2",3
+"Pampero",3
+"Tonga",3
+"Venilia",3
+"Xolotl",3
+"Crete",3
+"Cambridge University Boat Club-2",3
+"Camelia",3
+"China-2",3
+"LaBandera",3
+"Phalainis ton Thorichtou ""Hydra""-2",3
+"L'Aile VI",3
+"Kurush IV",3
+"Cook Islands",3
+"Studenternes Roklub-2",3
+"Norna",3
+"Compigne Polo Club",3
+"Paula",3
+"Timor Leste",3
+"Berliner Ruderclub Sport-Borussia-1",3
+"New York Athletic Club-4",3
+"Norway-2",3
+"Malaysia-1",3
+"Bamba",3
+"Galerna",3
+"New College, Oxford-2",3
+"Marinai della nave da guerra ""Varese""",3
+"Gabbiano",3
+"Ali-Baba II",3
+"Thames Rowing Club",2
+"Ali-Baba IV",2
+"Ali-Baba IX",2
+"Ali-Baba VI",2
+"Allegro",2
+"Amstel Amsterdam",2
+"Andorinha",2
+"Anitra",2
+"Antwerpia V",2
+"Argus",2
+"Babe",2
+"Baccara",2
+"Beaver",2
+"Belgium-4",2
+"Bissbi",2
+"BLO Polo Club, Rugby",2
+"Bucintoro Venezia",2
+"Bucintoro Venezia-1",2
+"Bulgaria-1",2
+"Buraddoo",2
+"Burevestnik",2
+"Buscape II",2
+"Bylina-2",2
+"Cambria",2
+"Century Boat Club-1",2
+"Chamukina",2
+"Cincinnati Archers",2
+"Ciocca",2
+"Ciocca III",2
+"Circus",2
+"Club Nautique de Dieppe-5",2
+"Club Nautique de Franais-1",2
+"Cobweb-1",2
+"Concordia Turnverein, St Louis",2
+"Cornwall",2
+"Cuba-1",2
+"Cupidon III",2
+"Cupidon Viking",2
+"Damoiselle",2
+"Damoiselle IV",2
+"Dansk Idrts Forbund",2
+"Denmark-1",2
+"Denmark-2",2
+"Dolfijn",2
+"Druzhba",2
+"EA II",2
+"Eissero VI",2
+"England-1",2
+"Evita VI",2
+"Faneca",2
+"Favorite Hammonia-3",2
+"Firebird II",2
+"Foxhunters Hurlingham",2
+"Fram",2
+"France-4",2
+"Frankfurt Club",2
+"Galatea II",2
+"Galejan",2
+"Gallia II",2
+"Galt Football Club",2
+"Girl Pat",2
+"Gitana-2",2
+"Gitana-21",2
+"Great Britain-4",2
+"Greece-2",2
+"Grifo III",2
+"Hatuey",2
+"Heira II",2
+"Heroine",2
+"Hirondelle",2
+"Hollandia",2
+"Hong Kong-1",2
+"Hungary-1",2
+"Inca",2
+"India-1",2
+"Indonesia-2",2
+"Italia",2
+"Italy-3",2
+"June Climene",2
+"Kristiania Roklub",2
+"Kristiania Roklub-1",2
+"Kurush II",2
+"La Salle Turnverein, Chicago",2
+"Lalage",2
+"Large boat, Central Naval Prep School ""Poros""-1",2
+"Lett",2
+"Libellule de Paris-3",2
+"Liverpool Police Team-2",2
+"Lotta IV",2
+"Ludwigshafener Ruder Verein-1",2
+"Marga-2",2
+"Marshall Islands",2
+"Martha-1",2
+"Martha-27",2
+"Mauritius-2",2
+"Minerva Amsterdam",2
+"Mosk II",2
+"Mouchette-2",2
+"Mound City Rowing Club-2",2
+"Mystery",2
+"Nautikos Omilos-3",2
+"Netherlands-1",2
+"Netherlands-2",2
+"New York Athletic Club #2-4",2
+"New York Turnverein, New York",2
+"Nigeria-1",2
+"Nikh",2
+"Nora",2
+"North Borneo",2
+"Norwegian Rowing Association",2
+"Olle",2
+"Oranje",2
+"Osborne Swimming Club, Manchester",2
+"Passaic Turnverein, Passaic",2
+"Pegaso",2
+"Peri",2
+"Peri II",2
+"Pistoja/Firenze",2
+"Polyteknisk Roklub-1",2
+"Primorka",2
+"Puerto Rico-2",2
+"Quand-Mme-2",2
+"Rhodesia",2
+"Sabre",2
+"Saskia",2
+"Shoveller",2
+"Siames-Cat",2
+"Silja",2
+"Sjhxa",2
+"Slaghoken",2
+"Smyrna",2
+"Snowten III",2
+"Socit Nautique de la Basse Seine-2",2
+"Sonja II",2
+"South Africa-2",2
+"South Korea-2",2
+"Stella-2",2
+"Suzy-2",2
+"Sweden-3",2
+"Symphony",2
+"Tango",2
+"Teresita",2
+"Thalatta",2
+"The Cloud",2
+"Tim-Tam III",2
+"Tip",2
+"Tornado",2
+"Trickson VI",2
+"Tutti V",2
+"Twins VIII",2
+"Unified Team-2",2
+"United States Golf Association-3",2
+"United States Virgin Islands-1",2
+"United States Virgin Islands-2",2
+"United States/France",2
+"Vesania",2
+"Vision",2
+"Wales-4",2
+"Web II",2
+"Western Rowing Club-3",2
+"Wolseley-Siddeley-1",2
+"Yeoman XII",2
+"Ylliam VII",2
+"Ylliam VIII",2
+"Omilos Ereton Peiraios-2",1
+"Bem II",1
+"Ormsund Roklub-2",1
+"Aletta",1
+"Oxalis",1
+"Paka V",1
+"Pakaria",1
+"Kiel",1
+"Kerstin-1",1
+"Joy",1
+"Pam",1
+"Jo",1
+"Pan",1
+"Pan-Hellenic Athletic Club",1
+"Jill",1
+"Panhellenios Gymnastikos Syllogos-1",1
+"Pannonia RC/National RC",1
+"Jest",1
+"Israel-2",1
+"Partenope",1
+"Yangon",1
+"Israel-1",1
+"Aldebaran II",1
+"United States/Great Britain",1
+"Univ. of Brussels",1
+"Ireland-3",1
+"Pettit-Poucet-6",1
+"Inga-Lill XXXXIII",1
+"Impala",1
+"Phoenix",1
+"Pierre et Jean-3",1
+"Pierre et Jean-4",1
+"Pigoule",1
+"Unknown",1
+"Plume-patte-32",1
+"Plume-Patte-5",1
+"Hurlingham-2",1
+"Hungaria Evezos Egylet",1
+"Hungaria",1
+"Bella",1
+"Heatherbell",1
+"Posillipo III",1
+"Pousse-Moi Pas VII",1
+"Uragan",1
+"Proteus II",1
+"Hb-24",1
+"Puerto Rico-1",1
+"Belarus-1",1
+"Pupilles de Neptune de Lille #1-3",1
+"Hb-20",1
+"Gyrinus-1",1
+"GyoshuII",1
+"Ballerina IV",1
+"Quand-Mme-33",1
+"R.-V. Germania, Leitmeritz",1
+"Gwendoline-22",1
+"Ral-Club Barcelona",1
+"Red Dragon",1
+"Gwendoline-2",1
+"Relampago",1
+"Bagatelle Polo Club, Paris",1
+"Rhythm",1
+"Rififi",1
+"Guyoni",1
+"Gustel V",1
+"Guanahani",1
+"Roklubb Kbnhavn-2",1
+"Gteborgs Roddfrening-2",1
+"Great Britain/Germany",1
+"Gran Gesto",1
+"Gilliatt V",1
+"Romolo",1
+"Rowing Club Castillon-3",1
+"Germania II",1
+"Rozenn-3",1
+"Rush IV",1
+"Gem VII",1
+"Gem IV",1
+"Gem III",1
+"Gem II",1
+"Gem",1
+"Gam II",1
+"Augsburg",1
+"Saga-2",1
+"SagaII",1
+"Galopin-9",1
+"Galopin-20",1
+"Frip IV",1
+"Fortuna",1
+"Finn II",1
+"Santa Maria",1
+"Feo",1
+"Sarcelle-3",1
+"Sarcelle-35",1
+"Vaxholm Roddklubb",1
+"Favorite-17",1
+"Scotia",1
+"Scotland",1
+"Scotland-2",1
+"Favorite-1",1
+"Scram",1
+"Seawanhaka Boat Club-1",1
+"Fantasio III",1
+"Fada",1
+"Serbia-2",1
+"Esterel-1",1
+"Serendipity",1
+"Esperia",1
+"Aschenbrodel",1
+"Ariel",1
+"Sidi-Fekkar-14",1
+"Sidi Fekkar-36",1
+"Espadarte",1
+"Yeoman VII",1
+"England",1
+"Sirene",1
+"Argonaut Rowing Club",1
+"Vicking",1
+"Slaghoken II",1
+"Encore",1
+"Elvis Va",1
+"Arcturus",1
+"Elsie",1
+"Viking",1
+"Elisabeth V",1
+"East Germany-3",1
+"Dylan-2",1
+"Dresden",1
+"Socit Nautique de Bayonne-1",1
+"Socit Nautique de Bayonne-2",1
+"Dormy-1",1
+"Vinha",1
+"Dinah V",1
+"Diablo",1
+"Virginie",1
+"Denmark/Sweden",1
+"Yugoslavia-1",1
+"Davenport Turngemeinde, Davenport",1
+"Aldebaran",1
+"South St Louis Turnverein, St Louis",1
+"Daisy",1
+"South Yemen",1
+"Souvenance",1
+"Czechoslovakia-3",1
+"Cuba-2",1
+"Crabe II-4",1
+"Crabe II-12",1
+"Crabe II-1",1
+"Crabe I-3",1
+"Crabe I-2",1
+"Spirit III",1
+"Crabe I-11",1
+"St. Louis Amateur Athletic Association",1
+"St. Louis Southwest Turnverein #1-2",1
+"St. Margrite",1
+"Covunco III",1
+"Starlight III",1
+"Wannsee",1
+"Struten",1
+"Complex II",1
+"Clementine V",1
+"Chuckles",1
+"Acturus",1
+"Chok",1
+"Chicago Athletic Association-2",1
+"Chicago Athletic Association",1
+"Chicago Archers",1
+"Web III",1
+"Swedish Star",1
+"Swift",1
+"Chaje II",1
+"Cha-Cha III",1
+"Ceres II",1
+"Sydney Rowing Club",1
+"Aphrodite",1
+"Cercle Nautique de Reims-4",1
+"Central Turnverein, Chicago",1
+"Tajamar",1
+"Carabinier-5",1
+"Apache",1
+"Carabinier-15",1
+"Antares",1
+"Terrible",1
+"Caprice",1
+"Ancora",1
+"30. Februar",1
+"Amolgavar",1
+"Thessalonki-1",1
+"Tichiboo",1
+"Tilly",1
+"Acipactli",1
+"Canopus",1
+"White Lady",1
+"Calypse II",1
+"Tom Kyle",1
+"Calimucho",1
+"Tornade-16",1
+"Whitini Star",1
+"Calcinhas",1
+"Tournade-40",1
+"Trans-Mississippi Golf Association-2",1
+"Widgeon",1
+"Burundi",1
+"Trintel II",1
+"Burkina Faso",1
+"Tu-Fri",1
+"Bu III",1
+"Brynhild-2",1
+"Bronia",1
+"Turnverein Vorwrts, Chicago",1
+"Turnverein Vorwrts, Cleveland",1
+"Wiking",1
+"Tuvalu",1
+"Twins II",1
+"Willem-Six",1
+"Brigantia",1
+"Briar",1
+"Breslau",1
+"Umberta V",1
+"Boreas-2",1
+"Bonzo",1
+"Mistral Hojris",1
+"Missouri Athletic Club-3",1
+"Mirtala",1
+"Mignon-3",1
+"Monaco-1",1
+"Monaco-2",1
+"Mignon-29",1
+"Monica",1
+"Mexico-2",1
+"Moorina",1
+"Morena",1
+"Mexico-1",1
+"Meteor",1
+"Amateur Athletic Association",1
+"Bluebottle",1
+"Unique",1
+"May Be VII",1
+"Mutafo",1
+"May Be",1
+"Blue Red",1
+"Naiad",1
+"May-Be 1960",1
+"Namoussa",1
+"Mauritius-1",1
+"Nausikaa 4",1
+"Bingo",1
+"Matrero II",1
+"Marmi II-1",1
+"Bermudian",1
+"Bermudes",1
+"Marmara",1
+"Mari",1
+"New York Athletic Club-1",1
+"Malaysia-2",1
+"New York Athletic Club #1-1",1
+"United States-10",1
+"United States-14",1
+"Magdalen College Boat Club-1",1
+"Mad Dog",1
+"Lucky Star",1
+"Lucky Girl-1",1
+"Berliner Ruderclub",1
+"London City Police-1",1
+"Bera",1
+"Llanoria",1
+"Leander Club #2-2",1
+"Leander Club #1-1",1
+"Nirefs",1
+"Nirwana",1
+"United States-6",1
+"Kullan",1
+"Nortazo",1
+"United States-7",1
+"Konstanz",1
+"North Korea-1",1
+"Kon-Tiki",1
+"KNS",1
+"Kitty-1",1
+"Kiribati",1
+"Norway-3",1
+"United States-9",1
+"Norwegier Turnverein, Brooklyn",1
+"Nykjbings paa Falster",1
+"Oleander II",1
+"Oleander XII",1
+"Olen",1
+"Akatonbo",1
+"Kingfisher",1
